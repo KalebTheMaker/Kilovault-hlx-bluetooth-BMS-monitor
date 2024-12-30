@@ -1,4 +1,5 @@
 # BMS Monitor for Kilovault HLX+ Batteries using ESPHome
+## NOTE: The documentation is incomplete, however the code here should work. I am still working on all of the docs, they will be done shortly. 
 
 This repository is for monitoring the Kilovault HLX+ Battery Management System via Bluetooth. These batteries have only the Android and IOS app to monitor them, and now that Kilovault has gone out of business the apps are disabled on the Google Play store and the IOS app store. There are quite a few people who have purchased these batteries, and we need a way to monitor the BMS. This method allows us to use [ESPHome](https://esphome.io/) and [Home Assistant](https://www.home-assistant.io/) to view data from the batteries in near real time.
 
