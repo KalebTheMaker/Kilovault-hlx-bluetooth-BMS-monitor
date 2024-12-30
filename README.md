@@ -13,4 +13,4 @@ This work is not solely mine. While I have contributed some of the work, much of
 My contribution to this effort is mainly in providing a complete solution in a single place with instructions (here) on how to make it work for you.
 
 ## Code and Contributions
-Please see the [WIKI](/wiki/Code-and-Contributing) for more information on Code and Contributions
+Please see the [WIKI](../../wiki/Code-and-Contributing) for more information on Code and Contributions
