@@ -7,6 +7,8 @@ If you are not technical and do not understand what all of this is, but would li
 This project runs on an ESP32 microcontroller by [ExpressIF](https://www.espressif.com/). The code running on the microcontroller is generated and managed by ESPHome. The microcontroller gathers data from the Kilovault Batteries and sends it to Home Assistant for collection and visualization. 
 ![Diagram of System](https://github.com/KalebTheMaker/Kilovault-hlx-bluetooth-BMS-monitor/blob/main/github/diagram00.jpg)
 
+![HASS Demo Image](https://github.com/KalebTheMaker/Kilovault-hlx-bluetooth-BMS-monitor/blob/main/github/hassdemo00.jpg)
+
 ## Installation and Use
 Please see the [WIKI](../../wiki/Installation-and-Use) for detailed instructions.
 
